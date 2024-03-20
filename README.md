@@ -6,13 +6,13 @@
 
    Rust를 윈도우에서 실행시키려면 ms c++ build tool이 필요하다.
 
-   설치를 위해 Visual Studio(https://visualstudio.microsoft.com/ko/)을 설치한다.
+   설치를 위해 Visual Studio(https://visualstudio.microsoft.com/ko/) 을 설치한다.
 
    Visual Studio Installer에서 [C++을 사용한 데스크톱 개발], [.NET 데스크톱 빌드 도구], [유니버셜 Windows 플랫폼 빌드 도구] 선택한다.
 
 2. **Rust download**
 
-   Rust 공식사이트(https://www.rust-lang.org/)에서 Rust를 설치한다.
+   Rust 공식사이트(https://www.rust-lang.org/) 에서 Rust를 설치한다.
 
 3. **visual studio code download**
 
